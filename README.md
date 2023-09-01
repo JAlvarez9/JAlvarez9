@@ -25,6 +25,6 @@ A lo largo de mi trayecto académico y proyectos personales, he tenido la oportu
 
 Puedes encontrarme en las siguientes redes sociales:
 
-- [LinkedIn](www.linkedin.com/in/jose-fernando-alvarez-morales-67b75a248)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-fernando-alvarez-morales-67b75a248//) 
 
 ¡Gracias por visitar mi perfil! 😄
