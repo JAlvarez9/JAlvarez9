@@ -1,16 +1,31 @@
-### Hi there 👋
+<!-- Encabezado -->
+# ¡Hola, soy Jose! 👋
 
-<!--
-**JAlvarez9/JAlvarez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala 🎓. En mi perfil de GitHub, encontrarás una variedad de proyectos en los que he trabajado, explorando y aprendiendo diferentes lenguajes y tecnologías.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy enfocado en aprender y mejorar mis habilidades de programación.
+- 🌱 Me apasiona la resolución de problemas y la innovación tecnológica.
+- 🚀 Disfruto trabajando en proyectos desafiantes y colaborativos.
+
+## Lenguajes y Tecnologías
+
+A lo largo de mi trayecto académico y proyectos personales, he tenido la oportunidad de trabajar con una variedad de lenguajes y tecnologías, incluyendo:
+
+- **Java**: Desarrollo de aplicaciones empresariales y Android.
+- **Python**: Análisis de datos, desarrollo web y automatización.
+- **JavaScript**: Desarrollo web, frontend y backend.
+- **C++**: Programación competitiva y desarrollo de software de bajo nivel.
+- **HTML/CSS**: Creación de sitios web y diseño web.
+- **Go**: Desarrollo Backend
+
+
+## Contacto
+
+Puedes encontrarme en las siguientes redes sociales:
+
+- [LinkedIn](www.linkedin.com/in/jose-fernando-alvarez-morales-67b75a248)
+- [Twitter](Enlace a tu perfil de Twitter)
+
+¡Gracias por visitar mi perfil! 😄
